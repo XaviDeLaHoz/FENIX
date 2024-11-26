@@ -14,6 +14,7 @@ The project was developed using PHP, HTML, and CSS, and was executed in a XAMPP 
 # Créditos
 -Español:<br>
 Este proyecto fue desarrollado durante el semestre 2021-2 de mi carrera universitaria. Participé activamente en la lógica, la estructuración y la programación del sistema, trabajando en colaboración con mi equipo.
+<br>
 -English:<br>
 This project was developed during the 2021-2 semester of my university studies. I actively contributed to the logic, structure, and programming of the system, collaborating closely with my team.
 
