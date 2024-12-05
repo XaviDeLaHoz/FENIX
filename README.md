@@ -26,7 +26,7 @@ This project was carried out in the semester  2023-1 of my university career. At
 
 <br>
 
--Xavier Andrés De La Hoz Salas.
--Enzo Junior De Leon Pineda.
--Vanessa Paola Romero Domínguez.
--Jaider Jose Gil Guzman.
+-Xavier Andrés De La Hoz Salas.<br>
+-Enzo Junior De Leon Pineda.<br>
+-Vanessa Paola Romero Domínguez.<br>
+-Jaider Jose Gil Guzman.<br>
